@@ -1,0 +1,28 @@
+.wrapper{
+    margin: 0 auto;
+    width: 200px;
+    height: 520px;
+    padding: 10px;
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    border-radius:15px;
+}
+.card{
+    width: 180px;
+    height: 180px;
+    background-color: rgb(74,74,74);
+    border-radius: 50%;
+    border: 2px solid white;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
